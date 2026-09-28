@@ -4,7 +4,7 @@ A modern, visually stunning, and fully responsive personal portfolio website bui
 
 ## 🌐 Live Demo
 
-🔗 **Deployed Website:** [View Portfolio](https://chandni-portfolio-two.vercel.app/)
+🔗 **Deployed Website:** [View Portfolio](https://portfolio-lemon-tau-70.vercel.app/)
 
 ## ✨ Features
 
